@@ -23,7 +23,7 @@ def image_to_minecraft(image_path: str, width: int = 128, blocks_folder: str = "
         new_im.paste(row_im, (0, y_offset))
         y_offset += 16
         
-    return new_im
+    new_im.save("image.png")
 
                 
 
