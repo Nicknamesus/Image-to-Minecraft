@@ -83,8 +83,10 @@ def find_closest_color_in_json(color: tuple, filepath:str = "blocks.json"):
     return current_best
 
 block = find_closest_color_in_json((29, 155, 209))
+"""
 print(block)
 with open("blocks.json", "r", encoding='utf-8') as file:
     s = file.read()
     d = json.loads(s)
 print("block color:", d[block])
+"""
