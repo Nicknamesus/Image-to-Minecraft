@@ -10,7 +10,7 @@ def block_to_color(image_path): #for now doesn't work with goofy dimensions
         rgb = (0, 0, 0)
         for row in range(im.height):
             for col in range(im.width):
-                nc = pix[row, col]
+                nc = pix[col, row]
                 rgb = tuple(rgb[i] + nc[i] for i in range(3))
 
         rgb = tuple(x // (im.width*im.height) for x in rgb)
