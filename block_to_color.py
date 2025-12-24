@@ -38,7 +38,7 @@ def jsonify(dict):
     with open("blocks.json", "w") as file:
         json.dump(dict, file, indent=4)
 
-jsonify(folder_to_colors("blocks_filtered"))
+#jsonify(folder_to_colors("blocks_filtered"))
         
 def findcolor_in_json(color:tuple, filepath:str = "blocks.json"):
     # filters
