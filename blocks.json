@@ -19,31 +19,15 @@
         88,
         34
     ],
-    "destroy_stage_8.png": [
-        177,
-        177,
-        177
-    ],
     "magenta_concrete.png": [
         169,
         48,
         159
     ],
-    "sculk_shrieker_inner_top.png": null,
     "stripped_spruce_log.png": [
         115,
         89,
         52
-    ],
-    "green_stained_glass_pane_top.png": [
-        12,
-        15,
-        6
-    ],
-    "potatoes_stage2.png": [
-        15,
-        22,
-        8
     ],
     "sculk_sensor_side.png": [
         5,
@@ -60,26 +44,6 @@
         63,
         61
     ],
-    "rail_corner.png": [
-        54,
-        48,
-        37
-    ],
-    "oak_sapling.png": [
-        33,
-        46,
-        17
-    ],
-    "hanging_roots.png": [
-        47,
-        33,
-        26
-    ],
-    "crimson_roots.png": [
-        44,
-        2,
-        14
-    ],
     "amethyst_cluster.png": [
         89,
         69,
@@ -95,11 +59,6 @@
         126,
         120
     ],
-    "lightning_rod.png": [
-        30,
-        17,
-        12
-    ],
     "crafting_table_top.png": [
         119,
         73,
@@ -110,11 +69,6 @@
         48,
         152
     ],
-    "oxeye_daisy.png": [
-        48,
-        62,
-        38
-    ],
     "chorus_flower_dead.png": [
         96,
         61,
@@ -124,11 +78,6 @@
         231,
         226,
         218
-    ],
-    "cake_top.png": [
-        189,
-        170,
-        164
     ],
     "stripped_bamboo_block_top.png": [
         178,
@@ -155,11 +104,6 @@
         160,
         74
     ],
-    "warped_roots_pot.png": [
-        5,
-        37,
-        34
-    ],
     "warped_stem_top.png": [
         53,
         109,
@@ -170,7 +114,6 @@
         180,
         133
     ],
-    "sculk_catalyst_top_bloom.png": null,
     "melon_top.png": [
         111,
         144,
@@ -181,7 +124,6 @@
         158,
         158
     ],
-    "warped_stem.png": null,
     "pumpkin_top.png": [
         198,
         118,
@@ -207,11 +149,6 @@
         107,
         92
     ],
-    "flowering_azalea_side.png": [
-        66,
-        68,
-        44
-    ],
     "polished_basalt_side.png": [
         88,
         88,
@@ -232,11 +169,6 @@
         144,
         88
     ],
-    "pointed_dripstone_down_frustum.png": [
-        83,
-        66,
-        57
-    ],
     "observer_side.png": [
         70,
         68,
@@ -247,16 +179,10 @@
         199,
         66
     ],
-    "chain_command_block_side.png": null,
     "crimson_planks.png": [
         101,
         48,
         70
-    ],
-    "potatoes_stage3.png": [
-        26,
-        42,
-        14
     ],
     "deepslate_copper_ore.png": [
         92,
@@ -272,11 +198,6 @@
         191,
         167,
         129
-    ],
-    "destroy_stage_9.png": [
-        167,
-        167,
-        167
     ],
     "smooth_stone_slab_side.png": [
         167,
@@ -298,17 +219,6 @@
         84,
         53
     ],
-    "magenta_candle.png": [
-        247,
-        237,
-        246
-    ],
-    "potatoes_stage1.png": [
-        6,
-        13,
-        4
-    ],
-    "campfire_fire.png": null,
     "dead_tube_coral_block.png": [
         130,
         123,
@@ -328,11 +238,6 @@
         154,
         154,
         148
-    ],
-    "magenta_stained_glass_pane_top.png": [
-        21,
-        9,
-        26
     ],
     "stripped_mangrove_log.png": [
         119,
@@ -354,11 +259,6 @@
         16,
         19
     ],
-    "light_gray_candle.png": [
-        243,
-        243,
-        243
-    ],
     "blast_furnace_front.png": [
         107,
         107,
@@ -379,11 +279,6 @@
         114,
         24
     ],
-    "fern.png": [
-        178,
-        178,
-        178
-    ],
     "mycelium_side.png": [
         113,
         87,
@@ -393,16 +288,6 @@
         85,
         85,
         85
-    ],
-    "lilac_top.png": [
-        45,
-        36,
-        43
-    ],
-    "cornflower.png": [
-        231,
-        236,
-        240
     ],
     "bamboo_block.png": [
         127,
@@ -419,26 +304,10 @@
         229,
         222
     ],
-    "water_overlay.png": null,
-    "light_gray_candle_lit.png": [
-        12,
-        12,
-        10
-    ],
     "structure_block_load.png": [
         69,
         57,
         70
-    ],
-    "brown_mushroom.png": [
-        20,
-        15,
-        12
-    ],
-    "potatoes_stage0.png": [
-        3,
-        7,
-        2
     ],
     "bamboo_mosaic.png": [
         190,
@@ -450,21 +319,6 @@
         150,
         147
     ],
-    "barrel_top_open.png": [
-        92,
-        67,
-        34
-    ],
-    "pointed_dripstone_up_tip_merge.png": [
-        46,
-        37,
-        32
-    ],
-    "tall_grass_bottom.png": [
-        93,
-        93,
-        93
-    ],
     "stripped_birch_log.png": [
         196,
         176,
@@ -474,11 +328,6 @@
         49,
         32,
         68
-    ],
-    "redstone_dust_dot.png": [
-        27,
-        27,
-        27
     ],
     "white_wool.png": [
         233,
@@ -495,7 +344,6 @@
         83,
         42
     ],
-    "repeating_command_block_side.png": null,
     "respawn_anchor_side0.png": [
         39,
         23,
@@ -526,26 +374,10 @@
         177,
         174
     ],
-    "light_blue_stained_glass_pane_top.png": [
-        12,
-        18,
-        26
-    ],
     "frosted_ice_0.png": [
         140,
         181,
         252
-    ],
-    "small_dripleaf_top.png": [
-        23,
-        29,
-        11
-    ],
-    "soul_campfire_fire.png": null,
-    "big_dripleaf_tip.png": [
-        15,
-        19,
-        7
     ],
     "purple_shulker_box.png": [
         103,
@@ -572,11 +404,6 @@
         229,
         222
     ],
-    "red_candle_lit.png": [
-        14,
-        5,
-        3
-    ],
     "polished_andesite.png": [
         132,
         134,
@@ -598,20 +425,10 @@
         203,
         87
     ],
-    "cocoa_stage1.png": [
-        50,
-        38,
-        19
-    ],
     "pearlescent_froglight_top.png": [
         245,
         240,
         239
-    ],
-    "mangrove_propagule.png": [
-        12,
-        22,
-        10
     ],
     "dark_oak_trapdoor.png": [
         75,
@@ -623,17 +440,6 @@
         82,
         79
     ],
-    "lily_pad.png": [
-        78,
-        78,
-        78
-    ],
-    "cocoa_stage0.png": [
-        24,
-        24,
-        11
-    ],
-    "nether_portal.png": null,
     "dead_fire_coral_block.png": [
         131,
         123,
@@ -695,11 +501,6 @@
         21,
         52
     ],
-    "red_stained_glass_pane_top.png": [
-        18,
-        6,
-        6
-    ],
     "item_frame.png": [
         116,
         67,
@@ -720,30 +521,15 @@
         81,
         86
     ],
-    "frosted_ice_1.png": [
-        139,
-        180,
-        252
-    ],
     "bricks.png": [
         150,
         97,
         83
     ],
-    "grindstone_side.png": [
-        78,
-        78,
-        78
-    ],
     "acacia_log_top.png": [
         150,
         88,
         55
-    ],
-    "mangrove_door_bottom.png": [
-        112,
-        47,
-        46
     ],
     "respawn_anchor_side1.png": [
         42,
@@ -770,32 +556,16 @@
         30,
         66
     ],
-    "iron_door_bottom.png": [
-        195,
-        194,
-        194
-    ],
     "jack_o_lantern.png": [
         214,
         152,
         52
-    ],
-    "pointed_dripstone_up_frustum.png": [
-        83,
-        66,
-        57
     ],
     "furnace_front_on.png": [
         121,
         112,
         93
     ],
-    "black_candle.png": [
-        237,
-        237,
-        238
-    ],
-    "sculk_sensor_tendril_active.png": null,
     "gray_concrete_powder.png": [
         76,
         81,
@@ -806,32 +576,11 @@
         83,
         37
     ],
-    "frosted_ice_3.png": [
-        135,
-        178,
-        252
-    ],
-    "crimson_fungus.png": [
-        33,
-        10,
-        6
-    ],
     "honey_block_bottom.png": [
         241,
         146,
         17
     ],
-    "blue_candle_lit.png": [
-        5,
-        6,
-        14
-    ],
-    "sunflower_back.png": [
-        11,
-        25,
-        7
-    ],
-    "fire_0.png": null,
     "orange_stained_glass.png": [
         216,
         127,
@@ -847,41 +596,20 @@
         62,
         53
     ],
-    "bamboo_large_leaves.png": [
-        78,
-        125,
-        27
-    ],
     "honey_block_top.png": [
         251,
         185,
         52
-    ],
-    "lily_of_the_valley.png": [
-        223,
-        235,
-        216
     ],
     "farmland.png": [
         143,
         102,
         70
     ],
-    "kelp.png": null,
     "quartz_pillar.png": [
         235,
         230,
         224
-    ],
-    "rose_bush_bottom.png": [
-        68,
-        58,
-        26
-    ],
-    "dandelion.png": [
-        18,
-        21,
-        5
     ],
     "copper_ore.png": [
         124,
@@ -893,47 +621,16 @@
         58,
         45
     ],
-    "cocoa_stage2.png": [
-        88,
-        52,
-        23
-    ],
-    "white_candle.png": [
-        251,
-        251,
-        251
-    ],
-    "sea_pickle.png": [
-        112,
-        118,
-        69
-    ],
-    "white_candle_lit.png": [
-        17,
-        17,
-        16
-    ],
-    "peony_bottom.png": [
-        47,
-        55,
-        51
-    ],
     "jigsaw_top.png": [
         80,
         69,
         81
-    ],
-    "potted_azalea_bush_plant.png": [
-        28,
-        32,
-        13
     ],
     "tube_coral_fan.png": [
         15,
         28,
         64
     ],
-    "command_block_back.png": null,
     "tuff.png": [
         108,
         109,
@@ -964,7 +661,6 @@
         244,
         228
     ],
-    "fire_1.png": null,
     "sculk_catalyst_top.png": [
         15,
         31,
@@ -974,16 +670,6 @@
         110,
         109,
         109
-    ],
-    "lime_candle_lit.png": [
-        10,
-        14,
-        2
-    ],
-    "bamboo_small_leaves.png": [
-        121,
-        148,
-        93
     ],
     "redstone_ore.png": [
         140,
@@ -995,30 +681,10 @@
         107,
         107
     ],
-    "cactus_top.png": [
-        65,
-        97,
-        33
-    ],
-    "frosted_ice_2.png": [
-        138,
-        179,
-        252
-    ],
     "light_blue_wool.png": [
         58,
         175,
         217
-    ],
-    "yellow_candle_lit.png": [
-        17,
-        15,
-        6
-    ],
-    "wither_rose.png": [
-        6,
-        8,
-        3
     ],
     "observer_top.png": [
         98,
@@ -1045,37 +711,20 @@
         233,
         181
     ],
-    "tall_seagrass_top.png": null,
     "warped_wart_block.png": [
         22,
         119,
         121
-    ],
-    "pointed_dripstone_down_tip_merge.png": [
-        46,
-        37,
-        32
     ],
     "birch_log.png": [
         216,
         215,
         210
     ],
-    "blast_furnace_front_on.png": null,
-    "mangrove_door_top.png": [
-        112,
-        48,
-        46
-    ],
     "stripped_acacia_log.png": [
         174,
         92,
         59
-    ],
-    "dark_oak_door_top.png": [
-        76,
-        51,
-        25
     ],
     "note_block.png": [
         88,
@@ -1091,11 +740,6 @@
         53,
         48,
         56
-    ],
-    "carrots_stage3.png": [
-        35,
-        53,
-        16
     ],
     "chain.png": [
         11,
@@ -1132,11 +776,6 @@
         85,
         59
     ],
-    "torch.png": [
-        10,
-        8,
-        4
-    ],
     "lime_concrete.png": [
         94,
         168,
@@ -1147,30 +786,10 @@
         105,
         105
     ],
-    "sweet_berry_bush_stage0.png": [
-        8,
-        18,
-        11
-    ],
-    "orange_candle.png": [
-        252,
-        242,
-        234
-    ],
-    "sweet_berry_bush_stage1.png": [
-        25,
-        51,
-        31
-    ],
     "cut_sandstone.png": [
         217,
         206,
         159
-    ],
-    "pink_tulip.png": [
-        22,
-        32,
-        17
     ],
     "coal_block.png": [
         16,
@@ -1192,17 +811,6 @@
         65,
         62
     ],
-    "repeating_command_block_front.png": null,
-    "pink_candle.png": [
-        251,
-        242,
-        245
-    ],
-    "carrots_stage2.png": [
-        18,
-        36,
-        12
-    ],
     "cartography_table_side1.png": [
         70,
         50,
@@ -1223,21 +831,6 @@
         131,
         74
     ],
-    "cave_vines_lit.png": [
-        61,
-        65,
-        24
-    ],
-    "azure_bluet.png": [
-        39,
-        48,
-        38
-    ],
-    "bamboo_singleleaf.png": [
-        240,
-        244,
-        234
-    ],
     "melon_side.png": [
         114,
         146,
@@ -1247,11 +840,6 @@
         128,
         94,
         62
-    ],
-    "purple_candle_lit.png": [
-        10,
-        2,
-        11
     ],
     "deepslate_top.png": [
         87,
@@ -1263,21 +851,6 @@
         132,
         99
     ],
-    "white_tulip.png": [
-        19,
-        31,
-        15
-    ],
-    "big_dripleaf_stem.png": [
-        29,
-        37,
-        15
-    ],
-    "small_amethyst_bud.png": [
-        16,
-        12,
-        24
-    ],
     "yellow_wool.png": [
         248,
         197,
@@ -1288,25 +861,10 @@
         91,
         91
     ],
-    "debug2.png": [
-        123,
-        119,
-        117
-    ],
     "cartography_table_side3.png": [
         67,
         43,
         20
-    ],
-    "acacia_sapling.png": [
-        51,
-        51,
-        10
-    ],
-    "carrots_stage0.png": [
-        2,
-        7,
-        2
     ],
     "pointed_dripstone_up_tip.png": [
         28,
@@ -1339,17 +897,6 @@
         60,
         36
     ],
-    "candle.png": [
-        252,
-        249,
-        245
-    ],
-    "command_block_conditional.png": null,
-    "lever.png": [
-        8,
-        7,
-        5
-    ],
     "tnt_side.png": [
         182,
         88,
@@ -1375,11 +922,6 @@
         57,
         61
     ],
-    "cave_vines_plant.png": [
-        49,
-        57,
-        21
-    ],
     "sculk_catalyst_side.png": [
         76,
         93,
@@ -1389,41 +931,6 @@
         20,
         121,
         135
-    ],
-    "white_stained_glass_pane_top.png": [
-        30,
-        30,
-        30
-    ],
-    "end_rod.png": [
-        47,
-        44,
-        42
-    ],
-    "sweet_berry_bush_stage3.png": [
-        43,
-        49,
-        32
-    ],
-    "medium_amethyst_bud.png": [
-        31,
-        24,
-        40
-    ],
-    "light_blue_candle.png": [
-        236,
-        245,
-        250
-    ],
-    "sweet_berry_bush_stage2.png": [
-        33,
-        50,
-        31
-    ],
-    "gray_stained_glass_pane_top.png": [
-        9,
-        9,
-        9
     ],
     "lime_shulker_box.png": [
         99,
@@ -1445,26 +952,6 @@
         35,
         35
     ],
-    "warped_fungus.png": [
-        14,
-        21,
-        17
-    ],
-    "sugar_cane.png": [
-        81,
-        106,
-        55
-    ],
-    "carrots_stage1.png": [
-        8,
-        19,
-        6
-    ],
-    "sunflower_bottom.png": [
-        12,
-        30,
-        6
-    ],
     "red_sandstone_bottom.png": [
         185,
         98,
@@ -1480,7 +967,6 @@
         224,
         220
     ],
-    "sculk.png": null,
     "exposed_copper.png": [
         161,
         125,
@@ -1495,11 +981,6 @@
         53,
         48,
         56
-    ],
-    "rose_bush_top.png": [
-        47,
-        24,
-        13
     ],
     "white_concrete.png": [
         207,
@@ -1516,11 +997,6 @@
         101,
         60
     ],
-    "turtle_egg_slightly_cracked.png": [
-        195,
-        193,
-        173
-    ],
     "polished_deepslate.png": [
         72,
         72,
@@ -1530,11 +1006,6 @@
         166,
         66,
         53
-    ],
-    "spore_blossom_base.png": [
-        70,
-        88,
-        31
     ],
     "smooth_basalt.png": [
         72,
@@ -1551,8 +1022,6 @@
         57,
         157
     ],
-    "magma.png": null,
-    "command_block_front.png": null,
     "basalt_side.png": [
         73,
         72,
@@ -1598,35 +1067,15 @@
         102,
         78
     ],
-    "birch_door_top.png": [
-        220,
-        209,
-        176
-    ],
     "green_concrete_powder.png": [
         97,
         119,
         44
     ],
-    "repeater_on.png": [
-        169,
-        157,
-        156
-    ],
     "bamboo_door_bottom.png": [
         199,
         178,
         84
-    ],
-    "cyan_candle.png": [
-        235,
-        244,
-        244
-    ],
-    "turtle_egg.png": [
-        200,
-        199,
-        181
     ],
     "dead_fire_coral.png": [
         58,
@@ -1648,11 +1097,6 @@
         96,
         96
     ],
-    "repeater.png": [
-        160,
-        157,
-        156
-    ],
     "azalea_top.png": [
         101,
         124,
@@ -1668,23 +1112,11 @@
         97,
         97
     ],
-    "green_candle.png": [
-        240,
-        241,
-        235
-    ],
-    "sculk_catalyst_side_bloom.png": null,
-    "red_candle.png": [
-        246,
-        237,
-        237
-    ],
     "stripped_oak_log_top.png": [
         160,
         129,
         77
     ],
-    "tall_seagrass_bottom.png": null,
     "pink_terracotta.png": [
         161,
         78,
@@ -1716,11 +1148,6 @@
         77,
         80
     ],
-    "peony_top.png": [
-        55,
-        54,
-        59
-    ],
     "snow.png": [
         249,
         254,
@@ -1735,11 +1162,6 @@
         95,
         54,
         30
-    ],
-    "lilac_bottom.png": [
-        48,
-        43,
-        44
     ],
     "warped_door_bottom.png": [
         43,
@@ -1760,11 +1182,6 @@
         149,
         117,
         67
-    ],
-    "brown_stained_glass_pane_top.png": [
-        12,
-        9,
-        6
     ],
     "crimson_nylium.png": [
         130,
@@ -1791,25 +1208,10 @@
         42,
         49
     ],
-    "composter_ready.png": [
-        177,
-        163,
-        143
-    ],
-    "soul_torch.png": [
-        8,
-        8,
-        7
-    ],
     "smoker_bottom.png": [
         107,
         105,
         103
-    ],
-    "end_portal_frame_eye.png": [
-        13,
-        26,
-        23
     ],
     "dried_kelp_bottom.png": [
         50,
@@ -1825,11 +1227,6 @@
         231,
         226,
         217
-    ],
-    "cyan_candle_lit.png": [
-        3,
-        12,
-        11
     ],
     "cobblestone.png": [
         127,
@@ -1851,11 +1248,6 @@
         42,
         38
     ],
-    "big_dripleaf_top.png": [
-        101,
-        128,
-        46
-    ],
     "packed_mud.png": [
         142,
         106,
@@ -1876,35 +1268,17 @@
         227,
         227
     ],
-    "warped_roots.png": [
-        7,
-        49,
-        44
-    ],
-    "debug.png": [
-        133,
-        148,
-        152
-    ],
     "dark_prismarine.png": [
         51,
         91,
         75
     ],
-    "allium.png": [
-        35,
-        34,
-        44
-    ],
-    "lantern.png": null,
     "shulker_box.png": null,
-    "prismarine.png": null,
     "purple_concrete.png": [
         100,
         31,
         156
     ],
-    "chain_command_block_conditional.png": null,
     "mangrove_log.png": [
         83,
         66,
@@ -1925,16 +1299,6 @@
         170,
         120
     ],
-    "bell_top.png": [
-        63,
-        58,
-        27
-    ],
-    "anvil_top.png": [
-        45,
-        45,
-        45
-    ],
     "raw_copper_block.png": [
         154,
         105,
@@ -1944,11 +1308,6 @@
         152,
         94,
         67
-    ],
-    "birch_door_bottom.png": [
-        208,
-        194,
-        144
     ],
     "observer_back_on.png": [
         76,
@@ -1995,7 +1354,6 @@
         14,
         18
     ],
-    "sculk_shrieker_can_summon_inner_top.png": null,
     "daylight_detector_inverted_top.png": [
         106,
         109,
@@ -2016,11 +1374,6 @@
         25,
         29
     ],
-    "ladder.png": [
-        70,
-        54,
-        30
-    ],
     "oak_log_top.png": [
         151,
         121,
@@ -2036,11 +1389,6 @@
         150,
         77
     ],
-    "redstone_torch.png": [
-        17,
-        8,
-        4
-    ],
     "glow_lichen.png": [
         46,
         53,
@@ -2051,16 +1399,10 @@
         70,
         71
     ],
-    "sea_lantern.png": null,
     "dead_bubble_coral_fan.png": [
         193,
         189,
         187
-    ],
-    "redstone_dust_line0.png": [
-        18,
-        18,
-        18
     ],
     "stripped_dark_oak_log.png": [
         72,
@@ -2077,17 +1419,6 @@
         95,
         96
     ],
-    "potted_azalea_bush_top.png": [
-        25,
-        30,
-        11
-    ],
-    "command_block_side.png": null,
-    "cauldron_bottom.png": [
-        13,
-        13,
-        14
-    ],
     "gray_shulker_box.png": [
         55,
         58,
@@ -2098,26 +1429,15 @@
         27,
         37
     ],
-    "soul_lantern.png": null,
     "pink_concrete_powder.png": [
         228,
         153,
         181
     ],
-    "grindstone_pivot.png": [
-        17,
-        10,
-        4
-    ],
     "chiseled_sandstone.png": [
         216,
         202,
         155
-    ],
-    "big_dripleaf_side.png": [
-        0,
-        1,
-        0
     ],
     "red_sandstone.png": [
         186,
@@ -2133,11 +1453,6 @@
         230,
         121,
         157
-    ],
-    "small_dripleaf_stem_bottom.png": [
-        15,
-        20,
-        7
     ],
     "gray_glazed_terracotta.png": [
         83,
@@ -2164,21 +1479,10 @@
         65,
         68
     ],
-    "bell_bottom.png": [
-        47,
-        37,
-        10
-    ],
     "purple_stained_glass.png": [
         127,
         63,
         178
-    ],
-    "lava_still.png": null,
-    "cactus_bottom.png": [
-        109,
-        130,
-        65
     ],
     "dead_tube_coral_fan.png": [
         202,
@@ -2195,11 +1499,6 @@
         153,
         153
     ],
-    "sculk_shrieker_top.png": [
-        40,
-        41,
-        34
-    ],
     "stripped_crimson_stem.png": [
         137,
         57,
@@ -2209,11 +1508,6 @@
         78,
         104,
         87
-    ],
-    "potted_flowering_azalea_bush_plant.png": [
-        30,
-        31,
-        17
     ],
     "cyan_concrete_powder.png": [
         36,
@@ -2255,16 +1549,6 @@
         30,
         32
     ],
-    "weeping_vines_plant.png": [
-        59,
-        7,
-        5
-    ],
-    "spore_blossom.png": [
-        103,
-        48,
-        79
-    ],
     "light_gray_terracotta.png": [
         135,
         106,
@@ -2280,12 +1564,6 @@
         41,
         26
     ],
-    "grass.png": [
-        79,
-        79,
-        79
-    ],
-    "seagrass.png": null,
     "deepslate_redstone_ore.png": [
         104,
         73,
@@ -2306,17 +1584,6 @@
         96,
         86
     ],
-    "redstone_dust_line1.png": [
-        20,
-        20,
-        20
-    ],
-    "kelp_plant.png": null,
-    "brewing_stand.png": [
-        61,
-        51,
-        41
-    ],
     "polished_basalt_top.png": [
         99,
         98,
@@ -2331,11 +1598,6 @@
         112,
         70,
         31
-    ],
-    "mangrove_propagule_hanging.png": [
-        22,
-        28,
-        14
     ],
     "grass_block_snow.png": [
         169,
@@ -2367,21 +1629,11 @@
         153,
         216
     ],
-    "brown_candle_lit.png": [
-        12,
-        7,
-        4
-    ],
     "stripped_warped_stem_top.png": null,
     "magenta_glazed_terracotta.png": [
         208,
         100,
         191
-    ],
-    "azalea_side.png": [
-        56,
-        70,
-        27
     ],
     "end_stone.png": [
         219,
@@ -2413,11 +1665,6 @@
         142,
         67
     ],
-    "iron_door_top.png": [
-        157,
-        156,
-        156
-    ],
     "jungle_trapdoor.png": [
         127,
         92,
@@ -2437,11 +1684,6 @@
     "yellow_concrete.png": [
         240,
         175,
-        21
-    ],
-    "melon_stem.png": [
-        21,
-        21,
         21
     ],
     "blue_glazed_terracotta.png": [
@@ -2464,11 +1706,6 @@
         176,
         168
     ],
-    "acacia_door_bottom.png": [
-        117,
-        65,
-        41
-    ],
     "green_wool.png": [
         84,
         109,
@@ -2479,28 +1716,11 @@
         100,
         31
     ],
-    "lime_candle.png": [
-        242,
-        248,
-        235
-    ],
-    "spruce_sapling.png": [
-        14,
-        19,
-        11
-    ],
-    "jungle_sapling.png": [
-        15,
-        27,
-        5
-    ],
-    "repeating_command_block_back.png": null,
     "jigsaw_side.png": [
         62,
         53,
         63
     ],
-    "sculk_sensor_tendril_inactive.png": null,
     "anvil.png": [
         68,
         68,
@@ -2516,21 +1736,6 @@
         202,
         154
     ],
-    "grass_block_side_overlay.png": [
-        27,
-        27,
-        27
-    ],
-    "bamboo_fence.png": [
-        138,
-        124,
-        59
-    ],
-    "purple_candle.png": [
-        242,
-        236,
-        247
-    ],
     "orange_wool.png": [
         240,
         118,
@@ -2540,11 +1745,6 @@
         62,
         68,
         71
-    ],
-    "pointed_dripstone_down_middle.png": [
-        94,
-        75,
-        65
     ],
     "chiseled_deepslate.png": [
         54,
@@ -2566,42 +1766,15 @@
         167,
         253
     ],
-    "red_mushroom.png": [
-        27,
-        9,
-        8
-    ],
     "light_gray_concrete.png": [
         125,
         125,
         115
     ],
-    "hopper_inside.png": [
-        49,
-        49,
-        53
-    ],
     "smithing_table_bottom.png": [
         64,
         28,
         23
-    ],
-    "orange_candle_lit.png": [
-        18,
-        10,
-        2
-    ],
-    "nether_wart_stage0.png": null,
-    "campfire_log.png": [
-        64,
-        60,
-        54
-    ],
-    "water_flow.png": null,
-    "activator_rail_on.png": [
-        87,
-        53,
-        45
     ],
     "blue_terracotta.png": [
         74,
@@ -2628,33 +1801,16 @@
         74,
         76
     ],
-    "stonecutter_saw.png": null,
     "black_wool.png": [
         20,
         21,
         25
-    ],
-    "dead_bush.png": [
-        32,
-        24,
-        12
     ],
     "gray_stained_glass.png": [
         76,
         76,
         76
     ],
-    "bamboo_fence_gate.png": [
-        125,
-        113,
-        53
-    ],
-    "azalea_plant.png": [
-        67,
-        81,
-        31
-    ],
-    "attached_melon_stem.png": null,
     "copper_block.png": [
         192,
         107,
@@ -2695,18 +1851,12 @@
         121,
         101
     ],
-    "soul_campfire_log_lit.png": null,
     "shroomlight.png": [
         240,
         146,
         70
     ],
     "dispenser_front.png": null,
-    "light_gray_stained_glass_pane_top.png": [
-        18,
-        18,
-        18
-    ],
     "red_glazed_terracotta.png": [
         181,
         59,
@@ -2733,11 +1883,6 @@
         42
     ],
     "red_stained_glass.png": null,
-    "cave_vines_plant_lit.png": [
-        65,
-        67,
-        25
-    ],
     "blackstone_top.png": [
         42,
         36,
@@ -2748,38 +1893,11 @@
         37,
         66
     ],
-    "bamboo_door_top.png": [
-        155,
-        139,
-        66
-    ],
-    "orange_tulip.png": [
-        26,
-        34,
-        16
-    ],
     "lime_terracotta.png": [
         103,
         117,
         52
     ],
-    "twisting_vines.png": [
-        5,
-        39,
-        34
-    ],
-    "respawn_anchor_top.png": null,
-    "tripwire_hook.png": [
-        25,
-        23,
-        21
-    ],
-    "sunflower_top.png": [
-        6,
-        15,
-        3
-    ],
-    "nether_wart_stage1.png": null,
     "loom_side.png": [
         145,
         101,
@@ -2795,36 +1913,15 @@
         97,
         97
     ],
-    "sculk_vein.png": null,
     "lime_wool.png": [
         112,
         185,
         25
     ],
-    "comparator.png": [
-        166,
-        161,
-        159
-    ],
-    "potted_azalea_bush_side.png": [
-        21,
-        26,
-        10
-    ],
-    "orange_stained_glass_pane_top.png": [
-        26,
-        15,
-        6
-    ],
     "grass_block_side.png": [
         126,
         107,
         65
-    ],
-    "green_candle_lit.png": [
-        8,
-        9,
-        1
     ],
     "dead_brain_coral.png": [
         58,
@@ -2848,11 +1945,6 @@
         45
     ],
     "redstone_block.png": null,
-    "pointed_dripstone_up_middle.png": [
-        94,
-        75,
-        65
-    ],
     "red_terracotta.png": [
         143,
         61,
@@ -2878,31 +1970,10 @@
         32,
         21
     ],
-    "cave_vines.png": [
-        50,
-        61,
-        22
-    ],
-    "chain_command_block_back.png": null,
-    "tripwire.png": [
-        21,
-        21,
-        21
-    ],
-    "gray_candle.png": [
-        240,
-        241,
-        242
-    ],
     "cut_copper.png": [
         191,
         106,
         80
-    ],
-    "composter_compost.png": [
-        161,
-        146,
-        124
     ],
     "scaffolding_top.png": [
         178,
@@ -2914,26 +1985,11 @@
         180,
         250
     ],
-    "purple_stained_glass_pane_top.png": [
-        15,
-        7,
-        21
-    ],
     "blue_stained_glass.png": null,
     "dropper_front.png": [
         122,
         121,
         121
-    ],
-    "pointed_dripstone_down_base.png": [
-        116,
-        92,
-        80
-    ],
-    "flowering_azalea_leaves.png": [
-        79,
-        88,
-        48
     ],
     "cartography_table_top.png": [
         103,
@@ -2944,17 +2000,6 @@
         83,
         12,
         82
-    ],
-    "nether_sprouts.png": [
-        2,
-        18,
-        16
-    ],
-    "nether_wart_stage2.png": null,
-    "acacia_door_top.png": [
-        120,
-        68,
-        43
     ],
     "stonecutter_side.png": [
         59,
@@ -2975,16 +2020,6 @@
         74,
         63,
         55
-    ],
-    "attached_pumpkin_stem.png": [
-        17,
-        17,
-        17
-    ],
-    "destroy_stage_1.png": [
-        248,
-        248,
-        248
     ],
     "dark_oak_leaves.png": [
         105,
@@ -3056,16 +2091,6 @@
         106,
         8
     ],
-    "comparator_on.png": [
-        175,
-        160,
-        157
-    ],
-    "light_blue_candle_lit.png": [
-        5,
-        13,
-        16
-    ],
     "blue_concrete_powder.png": [
         70,
         73,
@@ -3081,31 +2106,10 @@
         148,
         70
     ],
-    "wheat_stage7.png": [
-        90,
-        82,
-        39
-    ],
-    "pointed_dripstone_up_base.png": [
-        116,
-        92,
-        80
-    ],
-    "soul_fire_1.png": null,
     "bee_nest_bottom.png": [
         160,
         127,
         87
-    ],
-    "red_tulip.png": [
-        19,
-        25,
-        7
-    ],
-    "beetroots_stage1.png": [
-        7,
-        16,
-        4
     ],
     "ancient_debris_side.png": [
         95,
@@ -3127,11 +2131,6 @@
         130,
         78
     ],
-    "beetroots_stage0.png": [
-        3,
-        8,
-        2
-    ],
     "pearlescent_froglight_side.png": [
         235,
         224,
@@ -3141,23 +2140,6 @@
         177,
         144,
         86
-    ],
-    "soul_fire_0.png": null,
-    "crimson_roots_pot.png": [
-        31,
-        2,
-        10
-    ],
-    "wheat_stage6.png": null,
-    "frogspawn.png": [
-        34,
-        30,
-        27
-    ],
-    "small_dripleaf_side.png": [
-        1,
-        2,
-        0
     ],
     "farmland_moist.png": [
         81,
@@ -3179,21 +2161,10 @@
         166,
         164
     ],
-    "campfire_log_lit.png": null,
-    "turtle_egg_very_cracked.png": [
-        189,
-        187,
-        167
-    ],
     "mangrove_leaves.png": [
         107,
         106,
         106
-    ],
-    "potted_flowering_azalea_bush_top.png": [
-        28,
-        29,
-        17
     ],
     "spruce_log.png": [
         58,
@@ -3210,7 +2181,6 @@
         171,
         158
     ],
-    "pumpkin_stem.png": null,
     "black_concrete_powder.png": [
         25,
         26,
@@ -3221,7 +2191,6 @@
         35,
         46
     ],
-    "lava_flow.png": null,
     "magenta_wool.png": [
         189,
         68,
@@ -3237,55 +2206,15 @@
         49,
         70
     ],
-    "destroy_stage_0.png": [
-        252,
-        252,
-        252
-    ],
-    "destroy_stage_2.png": [
-        243,
-        243,
-        243
-    ],
-    "blue_stained_glass_pane_top.png": [
-        6,
-        9,
-        21
-    ],
-    "lightning_rod_on.png": [
-        255,
-        255,
-        255
-    ],
-    "sunflower_front.png": [
-        49,
-        39,
-        10
-    ],
     "stripped_jungle_log_top.png": [
         165,
         122,
         81
     ],
-    "cake_bottom.png": [
-        102,
-        47,
-        24
-    ],
     "stripped_spruce_log_top.png": [
         105,
         80,
         46
-    ],
-    "dark_oak_door_bottom.png": [
-        73,
-        49,
-        23
-    ],
-    "yellow_stained_glass_pane_top.png": [
-        27,
-        27,
-        6
     ],
     "purpur_block.png": [
         169,
@@ -3297,11 +2226,6 @@
         115,
         80
     ],
-    "horn_coral.png": [
-        81,
-        72,
-        24
-    ],
     "bone_block_side.png": [
         229,
         225,
@@ -3312,11 +2236,6 @@
         141,
         172
     ],
-    "horn_coral_fan.png": [
-        75,
-        67,
-        22
-    ],
     "acacia_trapdoor.png": [
         119,
         66,
@@ -3326,11 +2245,6 @@
         30,
         67,
         140
-    ],
-    "twisting_vines_plant.png": [
-        7,
-        47,
-        42
     ],
     "daylight_detector_top.png": [
         130,
@@ -3347,62 +2261,25 @@
         117,
         118
     ],
-    "redstone_torch_off.png": [
-        7,
-        5,
-        3
-    ],
     "sculk_shrieker_bottom.png": [
         13,
         27,
         33
-    ],
-    "wheat_stage4.png": null,
-    "potted_flowering_azalea_bush_side.png": [
-        24,
-        25,
-        15
     ],
     "netherrack.png": [
         97,
         38,
         38
     ],
-    "cauldron_inner.png": [
-        49,
-        49,
-        53
-    ],
-    "large_amethyst_bud.png": [
-        49,
-        38,
-        61
-    ],
-    "beetroots_stage2.png": [
-        23,
-        44,
-        13
-    ],
     "glass.png": [
         140,
         149,
         151
     ],
-    "beetroots_stage3.png": [
-        42,
-        41,
-        13
-    ],
     "sculk_shrieker_side.png": [
         56,
         76,
         72
-    ],
-    "wheat_stage5.png": null,
-    "grass_block_top.png": [
-        147,
-        147,
-        147
     ],
     "chorus_flower.png": [
         151,
@@ -3429,22 +2306,7 @@
         118,
         125
     ],
-    "dark_oak_sapling.png": [
-        26,
-        38,
-        13
-    ],
     "slime_block.png": null,
-    "brewing_stand_base.png": [
-        116,
-        105,
-        105
-    ],
-    "cyan_stained_glass_pane_top.png": [
-        9,
-        15,
-        18
-    ],
     "dead_brain_coral_block.png": [
         124,
         117,
@@ -3475,41 +2337,6 @@
         144,
         19
     ],
-    "enchanting_table_bottom.png": [
-        15,
-        10,
-        24
-    ],
-    "spruce_door_top.png": [
-        106,
-        80,
-        48
-    ],
-    "destroy_stage_3.png": [
-        238,
-        238,
-        238
-    ],
-    "cake_inner.png": [
-        58,
-        37,
-        26
-    ],
-    "oak_door_top.png": [
-        114,
-        90,
-        53
-    ],
-    "lime_stained_glass_pane_top.png": [
-        15,
-        24,
-        3
-    ],
-    "destroy_stage_7.png": [
-        195,
-        195,
-        195
-    ],
     "muddy_mangrove_roots_side.png": [
         68,
         58,
@@ -3525,16 +2352,10 @@
         91,
         91
     ],
-    "smoker_front_on.png": null,
     "dark_oak_log.png": [
         60,
         46,
         26
-    ],
-    "brown_candle.png": [
-        243,
-        239,
-        237
     ],
     "vine.png": [
         66,
@@ -3546,11 +2367,6 @@
         129,
         171
     ],
-    "jungle_door_bottom.png": [
-        158,
-        113,
-        78
-    ],
     "light_blue_concrete_powder.png": [
         74,
         180,
@@ -3561,26 +2377,10 @@
         196,
         185
     ],
-    "damaged_anvil_top.png": [
-        45,
-        45,
-        45
-    ],
-    "chain_command_block_front.png": null,
     "blackstone.png": [
         42,
         35,
         40
-    ],
-    "birch_sapling.png": [
-        48,
-        61,
-        30
-    ],
-    "yellow_candle.png": [
-        251,
-        247,
-        238
     ],
     "smithing_table_front.png": [
         56,
@@ -3597,11 +2397,6 @@
         131,
         31
     ],
-    "composter_top.png": [
-        210,
-        186,
-        166
-    ],
     "yellow_glazed_terracotta.png": [
         234,
         192,
@@ -3616,12 +2411,6 @@
         121,
         42,
         172
-    ],
-    "wheat_stage1.png": null,
-    "grindstone_round.png": [
-        53,
-        53,
-        53
     ],
     "honey_block_side.png": [
         250,
@@ -3658,21 +2447,6 @@
         214,
         170
     ],
-    "blue_orchid.png": [
-        8,
-        27,
-        28
-    ],
-    "candle_lit.png": [
-        19,
-        17,
-        14
-    ],
-    "black_stained_glass_pane_top.png": [
-        3,
-        3,
-        3
-    ],
     "beehive_front.png": [
         159,
         128,
@@ -3688,16 +2462,10 @@
         62,
         54
     ],
-    "crimson_stem.png": null,
     "white_glazed_terracotta.png": [
         188,
         212,
         202
-    ],
-    "oak_door_bottom.png": [
-        138,
-        108,
-        62
     ],
     "quartz_block_bottom.png": [
         236,
@@ -3709,21 +2477,10 @@
         146,
         90
     ],
-    "bell_side.png": [
-        57,
-        51,
-        21
-    ],
-    "wheat_stage0.png": null,
     "blast_furnace_top.png": [
         80,
         80,
         81
-    ],
-    "gray_candle_lit.png": [
-        9,
-        10,
-        8
     ],
     "scaffolding_bottom.png": [
         224,
@@ -3755,11 +2512,6 @@
         126,
         122
     ],
-    "poppy.png": [
-        19,
-        11,
-        5
-    ],
     "bamboo_block_top.png": [
         139,
         141,
@@ -3769,11 +2521,6 @@
         102,
         91,
         75
-    ],
-    "spruce_door_bottom.png": [
-        105,
-        80,
-        48
     ],
     "cracked_deepslate_tiles.png": [
         52,
@@ -3785,16 +2532,10 @@
         190,
         175
     ],
-    "water_still.png": null,
     "stripped_jungle_log.png": [
         171,
         132,
         84
-    ],
-    "cauldron_top.png": [
-        44,
-        44,
-        45
     ],
     "tinted_glass.png": [
         43,
@@ -3810,11 +2551,6 @@
         209,
         206,
         179
-    ],
-    "destroy_stage_6.png": [
-        212,
-        212,
-        212
     ],
     "light_blue_shulker_box.png": [
         49,
@@ -3836,40 +2572,15 @@
         103,
         85
     ],
-    "destroy_stage_4.png": [
-        230,
-        230,
-        230
-    ],
     "jigsaw_lock.png": [
         45,
         38,
         47
     ],
-    "activator_rail.png": [
-        70,
-        53,
-        45
-    ],
     "chiseled_bookshelf_occupied.png": [
         121,
         94,
         69
-    ],
-    "chipped_anvil_top.png": [
-        45,
-        45,
-        45
-    ],
-    "flower_pot.png": [
-        24,
-        13,
-        10
-    ],
-    "budding_amethyst.png": [
-        132,
-        96,
-        186
     ],
     "light_blue_concrete.png": [
         35,
@@ -3896,28 +2607,11 @@
         73,
         49
     ],
-    "weeping_vines.png": [
-        11,
-        0,
-        0
-    ],
-    "black_candle_lit.png": [
-        6,
-        3,
-        4
-    ],
-    "wheat_stage2.png": null,
     "lectern_base.png": [
         162,
         120,
         74
     ],
-    "blue_candle.png": [
-        238,
-        240,
-        247
-    ],
-    "repeating_command_block_conditional.png": null,
     "amethyst_block.png": [
         133,
         97,
@@ -3928,52 +2622,21 @@
         32,
         32
     ],
-    "tall_grass_top.png": [
-        53,
-        52,
-        53
-    ],
     "quartz_bricks.png": [
         234,
         229,
         221
-    ],
-    "redstone_dust_overlay.png": [
-        0,
-        0,
-        0
     ],
     "cracked_stone_bricks.png": [
         118,
         117,
         118
     ],
-    "flowering_azalea_top.png": [
-        112,
-        121,
-        64
-    ],
-    "glass_pane_top.png": [
-        21,
-        26,
-        27
-    ],
-    "hopper_top.png": [
-        46,
-        45,
-        46
-    ],
     "podzol_side.png": [
         122,
         87,
         57
     ],
-    "pink_stained_glass_pane_top.png": [
-        29,
-        15,
-        19
-    ],
-    "wheat_stage3.png": null,
     "black_concrete.png": [
         8,
         10,
@@ -3983,11 +2646,6 @@
         124,
         124,
         115
-    ],
-    "pink_candle_lit.png": [
-        17,
-        10,
-        12
     ],
     "tube_coral.png": [
         28,
@@ -4004,11 +2662,6 @@
         94,
         59
     ],
-    "small_dripleaf_stem_top.png": [
-        13,
-        16,
-        6
-    ],
     "bee_nest_front_honey.png": [
         194,
         151,
@@ -4020,20 +2673,10 @@
         87
     ],
     "iron_trapdoor.png": null,
-    "jungle_door_top.png": [
-        144,
-        105,
-        74
-    ],
     "verdant_froglight_side.png": [
         211,
         234,
         208
-    ],
-    "bamboo_stage0.png": [
-        214,
-        215,
-        201
     ],
     "birch_planks.png": [
         192,
@@ -4049,16 +2692,6 @@
         75,
         57,
         46
-    ],
-    "magenta_candle_lit.png": [
-        14,
-        5,
-        13
-    ],
-    "destroy_stage_5.png": [
-        222,
-        222,
-        222
     ],
     "large_fern_top.png": null,
     "diamond_ore.png": [
