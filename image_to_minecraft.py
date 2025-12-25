@@ -27,4 +27,4 @@ def image_to_minecraft(image_path: str, width: int = 128, blocks_folder: str = "
 
                 
 
-image_to_minecraft("rose.jpg", width= 32)
+image_to_minecraft("bender.jpeg", width= 124)

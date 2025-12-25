@@ -254,11 +254,6 @@
         61,
         63
     ],
-    "fire_coral.png": [
-        71,
-        16,
-        19
-    ],
     "blast_furnace_front.png": [
         107,
         107,
@@ -368,11 +363,6 @@
         160,
         166,
         179
-    ],
-    "dead_brain_coral_fan.png": [
-        181,
-        177,
-        174
     ],
     "frosted_ice_0.png": [
         140,
@@ -626,11 +616,6 @@
         69,
         81
     ],
-    "tube_coral_fan.png": [
-        15,
-        28,
-        64
-    ],
     "tuff.png": [
         108,
         109,
@@ -741,11 +726,6 @@
         48,
         56
     ],
-    "chain.png": [
-        11,
-        12,
-        16
-    ],
     "orange_glazed_terracotta.png": [
         154,
         147,
@@ -846,11 +826,6 @@
         87,
         89
     ],
-    "end_portal_frame_side.png": [
-        122,
-        132,
-        99
-    ],
     "yellow_wool.png": [
         248,
         197,
@@ -866,11 +841,6 @@
         43,
         20
     ],
-    "pointed_dripstone_up_tip.png": [
-        28,
-        22,
-        19
-    ],
     "hay_block_side.png": [
         166,
         136,
@@ -881,11 +851,6 @@
         113,
         108,
         137
-    ],
-    "end_portal_frame_top.png": [
-        91,
-        120,
-        97
     ],
     "stone_bricks.png": [
         122,
@@ -942,11 +907,6 @@
         192,
         74
     ],
-    "composter_bottom.png": [
-        116,
-        71,
-        32
-    ],
     "smithing_table_side.png": [
         55,
         35,
@@ -971,11 +931,6 @@
         161,
         125,
         103
-    ],
-    "dead_bubble_coral.png": [
-        68,
-        64,
-        62
     ],
     "polished_blackstone.png": [
         53,
@@ -1027,11 +982,6 @@
         72,
         77
     ],
-    "dead_horn_coral_fan.png": [
-        190,
-        185,
-        183
-    ],
     "chorus_plant.png": [
         93,
         57,
@@ -1076,16 +1026,6 @@
         199,
         178,
         84
-    ],
-    "dead_fire_coral.png": [
-        58,
-        54,
-        52
-    ],
-    "bubble_coral_fan.png": [
-        70,
-        14,
-        69
     ],
     "green_concrete.png": [
         73,
@@ -1309,11 +1249,6 @@
         94,
         67
     ],
-    "observer_back_on.png": [
-        76,
-        68,
-        68
-    ],
     "scaffolding_side.png": [
         118,
         104,
@@ -1348,11 +1283,6 @@
         235,
         154,
         181
-    ],
-    "fire_coral_fan.png": [
-        65,
-        14,
-        18
     ],
     "daylight_detector_inverted_top.png": [
         106,
@@ -1398,11 +1328,6 @@
         70,
         70,
         71
-    ],
-    "dead_bubble_coral_fan.png": [
-        193,
-        189,
-        187
     ],
     "stripped_dark_oak_log.png": [
         72,
@@ -1484,11 +1409,6 @@
         63,
         178
     ],
-    "dead_tube_coral_fan.png": [
-        202,
-        199,
-        198
-    ],
     "red_shulker_box.png": [
         140,
         31,
@@ -1523,16 +1443,6 @@
         43,
         45,
         140
-    ],
-    "powered_rail.png": [
-        92,
-        73,
-        49
-    ],
-    "dead_tube_coral.png": [
-        70,
-        66,
-        64
     ],
     "brown_shulker_box.png": [
         106,
@@ -1603,11 +1513,6 @@
         169,
         151,
         133
-    ],
-    "large_fern_bottom.png": [
-        170,
-        170,
-        170
     ],
     "piston_top_sticky.png": [
         122,
@@ -1781,11 +1686,6 @@
         59,
         91
     ],
-    "dead_horn_coral.png": [
-        55,
-        52,
-        50
-    ],
     "target_top.png": [
         226,
         170,
@@ -1836,11 +1736,6 @@
         42,
         61
     ],
-    "brain_coral_fan.png": [
-        75,
-        31,
-        57
-    ],
     "rooted_dirt.png": [
         144,
         103,
@@ -1888,11 +1783,6 @@
         36,
         41
     ],
-    "brain_coral.png": [
-        86,
-        37,
-        66
-    ],
     "lime_terracotta.png": [
         103,
         117,
@@ -1922,11 +1812,6 @@
         126,
         107,
         65
-    ],
-    "dead_brain_coral.png": [
-        58,
-        54,
-        52
     ],
     "yellow_stained_glass.png": [
         229,
@@ -1996,11 +1881,6 @@
         87,
         67
     ],
-    "bubble_coral.png": [
-        83,
-        12,
-        82
-    ],
     "stonecutter_side.png": [
         59,
         50,
@@ -2015,11 +1895,6 @@
         160,
         39,
         34
-    ],
-    "detector_rail.png": [
-        74,
-        63,
-        55
     ],
     "dark_oak_leaves.png": [
         105,
@@ -2155,11 +2030,6 @@
         66,
         43,
         20
-    ],
-    "dead_fire_coral_fan.png": [
-        170,
-        166,
-        164
     ],
     "mangrove_leaves.png": [
         107,
@@ -2357,11 +2227,6 @@
         46,
         26
     ],
-    "vine.png": [
-        66,
-        66,
-        66
-    ],
     "purpur_pillar.png": [
         171,
         129,
@@ -2402,11 +2267,6 @@
         192,
         88
     ],
-    "pointed_dripstone_down_tip.png": [
-        28,
-        22,
-        19
-    ],
     "purple_wool.png": [
         121,
         42,
@@ -2426,11 +2286,6 @@
         229,
         148,
         29
-    ],
-    "rail.png": [
-        70,
-        62,
-        49
     ],
     "spruce_log_top.png": [
         108,
@@ -2456,11 +2311,6 @@
         165,
         139,
         12
-    ],
-    "detector_rail_on.png": [
-        83,
-        62,
-        54
     ],
     "white_glazed_terracotta.png": [
         188,
@@ -2602,11 +2452,6 @@
         87,
         206
     ],
-    "powered_rail_on.png": [
-        103,
-        73,
-        49
-    ],
     "lectern_base.png": [
         162,
         120,
@@ -2646,11 +2491,6 @@
         124,
         124,
         115
-    ],
-    "tube_coral.png": [
-        28,
-        49,
-        117
     ],
     "orange_concrete.png": [
         224,
@@ -2693,7 +2533,6 @@
         57,
         46
     ],
-    "large_fern_top.png": null,
     "diamond_ore.png": [
         121,
         141,
