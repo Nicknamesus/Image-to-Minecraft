@@ -5,8 +5,8 @@ src/image_to_minecraft/block_to_color.py
 src/image_to_minecraft/get_file_type.py
 src/image_to_minecraft/hex_to_num.py
 src/image_to_minecraft/image_pixelifier.py
-src/image_to_minecraft/image_to_minecraft.py
-src/image_to_minecraft/optimitation_tests.py
+src/image_to_minecraft/minecraftifier.py
+src/image_to_minecraft/optimisation_tests.py
 src/image_to_minecraft.egg-info/PKG-INFO
 src/image_to_minecraft.egg-info/SOURCES.txt
 src/image_to_minecraft.egg-info/dependency_links.txt

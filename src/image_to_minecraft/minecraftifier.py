@@ -1,6 +1,6 @@
 from PIL import Image
-from image_pixelifier import pixelify_image
-from block_to_color import *
+from .image_pixelifier import pixelify_image
+from .block_to_color import *
 from io import BytesIO
 
 def converter_path(image_path: str, width: int = 128, blocks_list: str = "blocks.json"):
