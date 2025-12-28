@@ -13,7 +13,8 @@ classifiers = [
 ]
 license = "MIT"
 dependencies = [
-    "pillow>=12.0.0"
+    "pillow>=12.0.0",
+    "numpy>=2.0.0"
 ]
 
 [build-system]

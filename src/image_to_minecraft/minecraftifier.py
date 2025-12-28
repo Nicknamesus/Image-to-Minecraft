@@ -7,7 +7,7 @@ from .image_pixelifier import pixelify_image
 from .block_to_color import *
 
 
-@lru_cache(maxsize=256)
+@lru_cache(maxsize=1024)
 def _load_block_texture(blocks_dir: str, block_name: str) -> Image.Image:
     # Cache PNGs so we don't reopen them thousands of times.
     with resources.files("image_to_minecraft.blocks").joinpath(block_name).open("rb") as f:
@@ -30,20 +30,13 @@ def converter_path(
     pix = img.load()
 
     new_im = Image.new('RGB', (img.width * tile_size, img.height * tile_size))
-    y_offset = 0
-    for row in range(img.height):
-        x_offset = 0
-        row_im = Image.new("RGB", (img.width * tile_size, tile_size))
-        for col in range(img.width):
-            cc = pix[col, row]
+    for y in range(img.height):
+        for x in range(img.width):
+            cc = pix[x, y]
             print(cc)
             p_block = find_closest_color_in_json(color= cc, palette_items=d)
             block_im = _load_block_texture(blocks_dir, p_block)
-            row_im.paste(block_im, (x_offset, 0))
-            x_offset += tile_size
-        
-        new_im.paste(row_im, (0, y_offset))
-        y_offset += tile_size
+            new_im.paste(block_im, (x*tile_size, y*tile_size))
     
     #new_im.save("image.png")
     return new_im
@@ -57,6 +50,7 @@ def converter_bytes(
         tile_size: int = 16
     ) -> Image.Image:
     d = load_palette(blocks_json)
+    names, palette_arr = build_palette_np(d)
 
     # Load image from bytes
     with Image.open(BytesIO(image_bytes)) as input_img:
@@ -67,27 +61,19 @@ def converter_bytes(
     pix = img.load()
 
     new_im = Image.new('RGB', (img.width * tile_size, img.height * tile_size))
-    y_offset = 0
     color_cache = {}
-    for row in range(img.height):
-        x_offset = 0
-
-        row_im = Image.new("RGB", (img.width * tile_size, tile_size))
-
-        for col in range(img.width):
-            cc = pix[col, row]
+    for y in range(img.height):
+        for x in range(img.width):
+            cc = pix[x, y]
             print(cc)
             block_name = color_cache.get(cc)
             if block_name == None:
-                block_name = find_closest_color_in_json(color= cc, palette_items=d)
+                #opt. idea: instead of dict use 2 lists
+                block_name = closest_np(color= cc, palette_items=d)
                 color_cache[cc] = block_name
 
             block_im = _load_block_texture(blocks_dir, block_name)
-            row_im.paste(block_im, (x_offset, 0))
-            x_offset += tile_size
-        
-        new_im.paste(row_im, (0, y_offset))
-        y_offset += tile_size
+            new_im.paste(block_im, (x*tile_size, y*tile_size))
     
     #new_im.save("image.png")
     return new_im

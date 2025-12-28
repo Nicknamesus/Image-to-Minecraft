@@ -1,5 +1,6 @@
 from PIL import Image
 from importlib import resources
+import numpy as np
 import os
 import json
 from functools import lru_cache
@@ -12,6 +13,17 @@ def load_palette(filepath: str = "blocks.json"):
     # Keep only valid RGB entries
     items = [(k, tuple(v)) for k, v in d.items() if v and len(v) == 3]
     return items  # list[(block_name, (r,g,b))]
+
+def build_palette_np(palette_items):
+    names = [n for n, _ in palette_items]
+    arr = np.array([rgb for _, rgb in palette_items], dtype=np.int16)
+    return names, arr
+
+def closest_np(color, names, palette_arr):
+    c = np.array(color, dtype=np.int16)
+    d = palette_arr - c
+    dist2 = (d * d).sum(axis=1)
+    return names[int(dist2.argmin())]
 
 def block_to_color(image_path): #for now doesn't work with goofy dimensions
     try:
