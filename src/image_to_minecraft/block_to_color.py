@@ -40,40 +40,14 @@ def jsonify(dict):
 
 #jsonify(folder_to_colors("blocks_filtered"))
         
-def findcolor_in_json(color:tuple, filepath:str = "blocks.json"):
+def find_closest_color_in_json(color: tuple, blocks_list: dict):
     # filters
     if len(color) != 3:
-        return None
-    try:
-        with open(filepath, "r", encoding='utf-8') as file:
-            s = file.read()
-            d = json.loads(s)
-    except Exception as e:
-        print(e)
-        return None
-    # good part
-    for k, v in d.items():
-        try:
-            if tuple(v) == color:
-                return k
-        except TypeError:
-            pass
-        
-def find_closest_color_in_json(color: tuple, filepath:str = "blocks.json"):
-    # filters
-    if len(color) != 3:
-        return None
-    try:
-        with open(filepath, "r", encoding='utf-8') as file:
-            s = file.read()
-            d = json.loads(s)
-    except Exception as e:
-        print(e)
         return None
     # good part
     current_best = ""
     best_delta = 765
-    for k, v in d.items():
+    for k, v in blocks_list.items():
         if v:
             delta = math.sqrt((v[0] - color[0])**2 + (v[1] - color[1])**2 + (v[2] - color[2])**2)
             if delta < best_delta:

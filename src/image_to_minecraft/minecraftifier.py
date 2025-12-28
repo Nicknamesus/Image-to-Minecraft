@@ -30,6 +30,14 @@ def converter_path(image_path: str, width: int = 128, blocks_list: str = "blocks
 
                 
 def converter_bytes(image_bytes: bytes, width: int = 128, blocks_list: str = "blocks.json"):
+    try:
+        with open(blocks_list, "r", encoding='utf-8') as file:
+            s = file.read()
+            d = json.loads(s)
+    except Exception as e:
+        print(e)
+        return None
+
     # Load image from bytes
     with Image.open(BytesIO(image_bytes)) as input_img:
         input_img = input_img.convert("RGB")
@@ -46,7 +54,7 @@ def converter_bytes(image_bytes: bytes, width: int = 128, blocks_list: str = "bl
         for col in range(img.width):
             cc = pix[col, row]
             print(cc)
-            p_block = find_closest_color_in_json(color= cc, filepath=blocks_list)
+            p_block = find_closest_color_in_json(color= cc, blocks_list=d)
             block_im = Image.open(f"blocks/{p_block}")
             row_im.paste(block_im, (x_offset, 0))
             x_offset += 16
