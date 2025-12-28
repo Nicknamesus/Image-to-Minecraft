@@ -1,7 +1,17 @@
 from PIL import Image
+from importlib import resources
 import os
 import json
-import math
+from functools import lru_cache
+
+@lru_cache(maxsize=8)
+def load_palette(filepath: str = "blocks.json"):
+    with resources.files("image_to_minecraft").joinpath(filepath).open("r", encoding="utf-8") as f:
+        d = json.load(f)
+
+    # Keep only valid RGB entries
+    items = [(k, tuple(v)) for k, v in d.items() if v and len(v) == 3]
+    return items  # list[(block_name, (r,g,b))]
 
 def block_to_color(image_path): #for now doesn't work with goofy dimensions
     try:
@@ -40,27 +50,18 @@ def jsonify(dict):
 
 #jsonify(folder_to_colors("blocks_filtered"))
         
-def find_closest_color_in_json(color: tuple, blocks_list: dict):
-    # filters
-    if len(color) != 3:
-        return None
-    # good part
-    current_best = ""
-    best_delta = 765
-    for k, v in blocks_list.items():
-        if v:
-            delta = math.sqrt((v[0] - color[0])**2 + (v[1] - color[1])**2 + (v[2] - color[2])**2)
-            if delta < best_delta:
-                best_delta = delta
-                current_best = k
+def find_closest_color_in_json(color: tuple[int, int, int], palette_items):
+    best_name = ""
+    best_delta2 = float("inf")
+    r, g, b = color
+
+    for name, (pr, pg, pb)in palette_items:
+        dr = pr - r
+        dg = pg - g
+        db = pb - b
+        delta2 = dr*dr + dg*dg + db*db
+        if delta2 < best_delta2:
+            best_delta2 = delta2
+            current_best = name
 
     return current_best
-
-block = find_closest_color_in_json((29, 155, 209))
-"""
-print(block)
-with open("blocks.json", "r", encoding='utf-8') as file:
-    s = file.read()
-    d = json.loads(s)
-print("block color:", d[block])
-"""

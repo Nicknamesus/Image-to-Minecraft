@@ -19,3 +19,6 @@ dependencies = [
 [build-system]
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
+
+[tool.setuptools.package-data]
+image_to_minecraft = ["blocks.json", "blocks/*.png"]
