@@ -62,6 +62,6 @@ def find_closest_color_in_json(color: tuple[int, int, int], palette_items):
         delta2 = dr*dr + dg*dg + db*db
         if delta2 < best_delta2:
             best_delta2 = delta2
-            current_best = name
+            best_name = name
 
-    return current_best
+    return best_name
