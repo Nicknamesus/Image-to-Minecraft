@@ -23,6 +23,7 @@ def converter_path(
         tile_size: int = 16
     ) -> Image.Image:
     d = load_palette(blocks_json)
+    names, palette_arr = build_palette_np(d)
 
     im = Image.open(image_path)
     im = im.convert("RGB")
@@ -30,12 +31,18 @@ def converter_path(
     pix = img.load()
 
     new_im = Image.new('RGB', (img.width * tile_size, img.height * tile_size))
+    color_cache = {}
     for y in range(img.height):
         for x in range(img.width):
             cc = pix[x, y]
             print(cc)
-            p_block = find_closest_color_in_json(color= cc, palette_items=d)
-            block_im = _load_block_texture(blocks_dir, p_block)
+            block_name = color_cache.get(cc)
+            if block_name == None:
+                #opt. idea: instead of dict use 2 lists
+                block_name = closest_np(color= cc, names=names, palette_arr=palette_arr)
+                color_cache[cc] = block_name
+
+            block_im = _load_block_texture(blocks_dir, block_name)
             new_im.paste(block_im, (x*tile_size, y*tile_size))
     
     #new_im.save("image.png")
@@ -69,7 +76,7 @@ def converter_bytes(
             block_name = color_cache.get(cc)
             if block_name == None:
                 #opt. idea: instead of dict use 2 lists
-                block_name = closest_np(color= cc, palette_items=d)
+                block_name = closest_np(color= cc, names=names, palette_arr=palette_arr)
                 color_cache[cc] = block_name
 
             block_im = _load_block_texture(blocks_dir, block_name)
