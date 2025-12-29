@@ -22,7 +22,7 @@ def build_palette_np(palette_items):
 def closest_np(color, names, palette_arr):
     c = np.array(color, dtype=np.int16)
     d = palette_arr - c
-    dist2 = (d * d).sum(axis=1)
+    dist2 = (d.astype(np.int32) ** 2).sum(axis=1)
     return names[int(dist2.argmin())]
 
 def block_to_color(image_path): #for now doesn't work with goofy dimensions

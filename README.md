@@ -1,2 +1,4 @@
 # Image-to-Minecraft
-Takes an image, pixelisiez it, returns the image remade with Minecraft blocks
+Takes an image and recreates it from a set of given blocks
+
+

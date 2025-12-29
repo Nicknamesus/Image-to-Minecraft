@@ -1,6 +1,6 @@
 [project]
 name = "image-to-minecraft"
-version = "0.1.3"
+version = "0.1.0"
 authors = [
   { name="Nikita Gamygin", email="nikita.gamygin@gmail.com" },
 ]
