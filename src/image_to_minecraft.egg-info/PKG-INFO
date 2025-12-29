@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: image-to-minecraft
-Version: 0.1.0
+Version: 0.1.1
 Summary: Takes an image and recreates it from a set of given blocks
 Author-email: Nikita Gamygin <nikita.gamygin@gmail.com>
 License-Expression: MIT
@@ -12,4 +12,6 @@ Requires-Dist: pillow>=12.0.0
 Requires-Dist: numpy>=2.0.0
 
 # Image-to-Minecraft
-Takes an image, pixelisiez it, returns the image remade with Minecraft blocks
+Takes an image and recreates it from a set of given blocks
+
+
